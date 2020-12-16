@@ -1,7 +1,7 @@
 ### Thanks for Your Help!
 
 Contributing is so kind of you. In ThinkStats2, all contributions, bug reports, bug
-fixes, documentation improvements, enhancements and ideas are welcome.
+fixes, documentation improvements, enhancements and ideas are welcome. 
 
 The [GitHub "issues" tab](https://github.com/AllenDowney/ThinkStats2/issues)
 contains some issues labeled "first PR". Those are open issues that would be a
