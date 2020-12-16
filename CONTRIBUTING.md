@@ -6,7 +6,7 @@ fixes, documentation improvements, enhancements and ideas are welcome.
 The [GitHub "issues" tab](https://github.com/AllenDowney/ThinkStats2/issues)
 contains some issues labeled "first PR". Those are open issues that would be a
 good quick way to get started. Browse them to see if you want to get started on
-one.
+one. 
 
 #### Bug Reports
 
